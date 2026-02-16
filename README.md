@@ -1,6 +1,6 @@
 # pi-zero-grow-light
 
-A collection of STL files related to a "grow lab" hack project.
+A collection of STL files related to the [growing.shiftkey.online](https://growing.shiftkey.online/) project.
 
 ## Demo
 
