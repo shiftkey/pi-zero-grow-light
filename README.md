@@ -22,5 +22,11 @@ This folder contains the components for the Raspberry Pi Zero case, designed in 
 
 ### First version
 
-![View of front](https://github.com/shiftkey/pi-zero-grow-light/assets/359239/1f108426-df60-4027-823b-35180ecbd30f)
-![View of rear](https://github.com/shiftkey/pi-zero-grow-light/assets/359239/260e4c76-5940-41f5-968e-0e1d3658cdbc)
+![View of front](photos/v1-image-front.jpg)
+![View of rear](photos/v1-image-back.jpg)
+
+
+### Second version
+
+![View of front](photos/v2-image-front.jpg)
+![View of rear](photos/v2-image-back.jpg)
